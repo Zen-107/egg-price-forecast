@@ -1,0 +1,4 @@
+direction,count,mean,naive_mae
+drop >10%,12,0.419,0.528
+normal,66,0.089,0.088
+spike >10%,14,0.589,0.521

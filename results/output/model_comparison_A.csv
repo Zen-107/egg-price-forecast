@@ -1,0 +1,4 @@
+model,MAE ($/doz),RMSE ($/doz),MASE,Spike recall,False alarms
+Naive,0.212,0.319,1.0,0/14,0
+Ridge,0.212,0.32,1.002,0/14,0
+GBM,0.208,0.333,0.981,0/14,1

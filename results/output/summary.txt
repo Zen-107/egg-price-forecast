@@ -1,0 +1,34 @@
+=== EDA (R3) ===
+Decade mean price grew 3.0x since the 1980s -> predict log-return, not level
+Std of monthly change = 7.1%, 78 months with |change| > 10%
+Volatility clusters: P(big next | big now) = 24% vs 12% after calm month
+Significant ACF lags: [2, 6, 10, 12]
+corr(layers lag k) = {0: -0.13, 1: -0.15, 2: -0.11, 3: -0.04, 4: 0.06}
+corr(HPAI lag k)   = {0: 0.3, 1: 0.41, 2: 0.22, 3: -0.09, 4: -0.14}
+=== Experiment A: price only (R4) ===
+Test 92 months (2019-01 -> 2026-08), walk-forward
+      MAE ($/doz) RMSE ($/doz)   MASE Spike recall False alarms
+Naive       0.212        0.319    1.0         0/14            0
+Ridge       0.212         0.32  1.002         0/14            0
+GBM         0.208        0.333  0.981         0/14            1
+Best model: GBM (MASE 0.981) -> close to baseline (<5%)
+=== Experiment B: + layers / HPAI ===
+Selection 2022-06 -> 2024-05: MASE gain vs price only = {'layers': 0.026, 'HPAI': 0.059} -> selected Ridge + layers + HPAI
+Evaluation 2024-06 -> 2026-01 (20 months):
+                      MAE ($/doz) RMSE ($/doz)   MASE Spike recall False alarms
+Naive                       0.407        0.507    1.0          0/5            0
+GBM price only              0.389        0.521  0.956          0/5            1
+Ridge price only             0.42        0.513  1.031          0/5            0
+Ridge + layers + HPAI       0.448        0.623  1.102          3/5            5
+=== Error analysis (R5) ===
+Volatile = vol_6 > 7.6% | normal 42 months, volatile 50 months
+       MAE normal  MAE volatile  MASE normal  MASE volatile
+Naive       0.117         0.291        1.000          1.000
+Ridge       0.119         0.290        1.017          0.997
+GBM         0.117         0.284        1.000          0.976
+Top-10 worst months of GBM: under-predicted 70%
+=== Budget band (R6) ===
+          P10 (%)  P90 (%)
+all         -10.1     15.0
+normal       -5.9     10.3
+volatile    -11.2     15.5

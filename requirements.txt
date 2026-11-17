@@ -1,0 +1,8 @@
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.8
+pyarrow>=15.0
+# สำหรับเปิด notebook (ไม่จำเป็นถ้ารันแค่ src/main.py)
+ipykernel
+nbconvert

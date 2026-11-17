@@ -1,0 +1,10 @@
+model,MAE ($/doz),RMSE ($/doz),MASE,Spike recall,False alarms
+Naive,0.275,0.364,1.0,0/5,0
+Ridge price only,0.268,0.352,0.977,0/5,0
+GBM price only,0.273,0.379,0.994,0/5,0
+Ridge + layers,0.261,0.385,0.951,1/5,1
+GBM + layers,0.305,0.431,1.111,1/5,3
+Ridge + HPAI,0.265,0.358,0.965,4/5,4
+GBM + HPAI,0.252,0.326,0.918,3/5,2
+Ridge + layers + HPAI,0.246,0.333,0.895,4/5,5
+GBM + layers + HPAI,0.257,0.323,0.938,4/5,4

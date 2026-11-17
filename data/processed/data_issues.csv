@@ -1,0 +1,9 @@
+issue,size,handling
+Missing price month(s) (BLS did not collect during government shutdown),1,asfreq + linear interpolation
+Only ~1 row per month,561,"Small models (Ridge, shallow GBM) + walk-forward"
+Long-run price trend (inflation),1980-2026,Target = next-month log-return
+NASS layers only cover part of the period,217,Separate experiment B
+NASS published ~1 month late,-,Lag layers by 1 month
+NASS file mixes several series,1302,"Keep LAYERS, TABLE + Domain TOTAL"
+APHIS HPAI file starts 2022-02,-,"Before 2016-07 = NaN, 2016-07..2022-01 = 0"
+"HPAI is per farm, many bird types",2307,"Keep Table Egg farms, sum per month"
