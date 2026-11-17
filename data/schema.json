@@ -1,0 +1,132 @@
+{
+  "average_prices.csv": [
+    {
+      "name": "series_id",
+      "dtype": "str"
+    },
+    {
+      "name": "date",
+      "dtype": "datetime64[us]"
+    },
+    {
+      "name": "year",
+      "dtype": "int16"
+    },
+    {
+      "name": "month",
+      "dtype": "int8"
+    },
+    {
+      "name": "item_code",
+      "dtype": "str"
+    },
+    {
+      "name": "item_name",
+      "dtype": "str"
+    },
+    {
+      "name": "category",
+      "dtype": "str"
+    },
+    {
+      "name": "area_code",
+      "dtype": "str"
+    },
+    {
+      "name": "area_name",
+      "dtype": "str"
+    },
+    {
+      "name": "area_type",
+      "dtype": "str"
+    },
+    {
+      "name": "price_usd",
+      "dtype": "float64"
+    },
+    {
+      "name": "unit",
+      "dtype": "str"
+    },
+    {
+      "name": "seasonally_adjusted",
+      "dtype": "bool"
+    },
+    {
+      "name": "footnote_code",
+      "dtype": "str"
+    }
+  ],
+  "series.csv": [
+    {
+      "name": "series_id",
+      "dtype": "str"
+    },
+    {
+      "name": "area_code",
+      "dtype": "str"
+    },
+    {
+      "name": "item_code",
+      "dtype": "str"
+    },
+    {
+      "name": "seasonally_adjusted",
+      "dtype": "bool"
+    },
+    {
+      "name": "first_date",
+      "dtype": "datetime64[us]"
+    },
+    {
+      "name": "last_date",
+      "dtype": "datetime64[us]"
+    }
+  ],
+  "items.csv": [
+    {
+      "name": "item_code",
+      "dtype": "str"
+    },
+    {
+      "name": "item_name",
+      "dtype": "str"
+    },
+    {
+      "name": "item_label",
+      "dtype": "str"
+    },
+    {
+      "name": "category",
+      "dtype": "str"
+    },
+    {
+      "name": "unit",
+      "dtype": "str"
+    }
+  ],
+  "areas.csv": [
+    {
+      "name": "area_code",
+      "dtype": "str"
+    },
+    {
+      "name": "area_name",
+      "dtype": "str"
+    },
+    {
+      "name": "area_type",
+      "dtype": "str"
+    }
+  ],
+  "footnotes.csv": [
+    {
+      "name": "footnote_code",
+      "dtype": "str"
+    },
+    {
+      "name": "footnote_text",
+      "dtype": "str"
+    }
+  ]
+}

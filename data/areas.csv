@@ -1,0 +1,75 @@
+area_code,area_name,area_type
+0000,U.S. city average,national
+0100,Northeast,region
+0110,New England,division
+0120,Middle Atlantic,division
+0200,Midwest,region
+0230,East North Central,division
+0240,West North Central,division
+0300,South,region
+0350,South Atlantic,division
+0360,East South Central,division
+0370,West South Central,division
+0400,West,region
+0480,Mountain,division
+0490,Pacific,division
+A104,"Pittsburgh, PA",metro
+A105,"Buffalo-Niagara Falls, NY",metro
+A106,"Scranton, PA",metro
+A210,"Cleveland-Akron, OH",metro
+A212,"Milwaukee-Racine, WI",metro
+A213,"Cincinnati-Hamilton, OH-KY-IN",metro
+A214,"Kansas City, MO-KS",metro
+A311,"Washington-Baltimore, DC-MD-VA-WV",metro
+A315,"Washington, DC-MD-VA",metro
+A317,"Baltimore, MD",metro
+A421,"Los Angeles-Riverside-Orange County, CA",metro
+A425,"Portland-Salem, OR-WA",metro
+B000,City size B,city_size_class
+B100,Northeast size B,city_size_class
+B200,North Central size B,city_size_class
+B300,South size B,city_size_class
+B400,West size B,city_size_class
+C000,City size C,city_size_class
+C100,Northeast size C,city_size_class
+C200,North Central size C,city_size_class
+C300,South size C,city_size_class
+C400,West size C,city_size_class
+D000,Size Class D,city_size_class
+D100,Northeast - Size Class D,city_size_class
+D200,Midwest - Size Class D,city_size_class
+D300,South - Size Class D,city_size_class
+D400,West - Size Class D,city_size_class
+N000,Size Class B/C,city_size_class
+N100,Northeast - Size Class B/C,city_size_class
+N200,Midwest - Size Class B/C,city_size_class
+N300,South - Size Class B/C,city_size_class
+N400,West - Size Class B/C,city_size_class
+S000,Size Class A,city_size_class
+S100,Northeast - Size Class A,city_size_class
+S11A,"Boston-Cambridge-Newton, MA-NH",metro
+S12A,"New York-Newark-Jersey City, NY-NJ-PA",metro
+S12B,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",metro
+S200,Midwest - Size Class A,city_size_class
+S23A,"Chicago-Naperville-Elgin, IL-IN-WI",metro
+S23B,"Detroit-Warren-Dearborn, MI",metro
+S24A,"Minneapolis-St.Paul-Bloomington, MN-WI",metro
+S24B,"St. Louis, MO-IL",metro
+S300,South - Size Class A,city_size_class
+S35A,"Washington-Arlington-Alexandria, DC-VA-MD-WV",metro
+S35B,"Miami-Fort Lauderdale-West Palm Beach, FL",metro
+S35C,"Atlanta-Sandy Springs-Roswell, GA",metro
+S35D,"Tampa-St. Petersburg-Clearwater, FL",metro
+S35E,"Baltimore-Columbia-Towson, MD",metro
+S37A,"Dallas-Fort Worth-Arlington, TX",metro
+S37B,"Houston-The Woodlands-Sugar Land, TX",metro
+S400,West - Size Class A,city_size_class
+S48A,"Phoenix-Mesa-Scottsdale, AZ",metro
+S48B,"Denver-Aurora-Lakewood, CO",metro
+S49A,"Los Angeles-Long Beach-Anaheim, CA",metro
+S49B,"San Francisco-Oakland-Hayward, CA",metro
+S49C,"Riverside-San Bernardino-Ontario, CA",metro
+S49D,Seattle-Tacoma-Bellevue WA,metro
+S49E,"San Diego-Carlsbad, CA",metro
+S49F,Urban Hawaii,metro
+S49G,Urban Alaska,metro

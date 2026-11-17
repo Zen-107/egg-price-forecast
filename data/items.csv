@@ -1,0 +1,161 @@
+item_code,item_name,item_label,category,unit
+701111,"Flour, white, all purpose, per lb. (453.6 gm)","Flour, white, all purpose",food,pound
+701311,"Rice, white, long grain, precooked (cost per pound/453.6 grams)","Rice, white, long grain, precooked",food,pound
+701312,"Rice, white, long grain, uncooked, per lb. (453.6 gm)","Rice, white, long grain, uncooked",food,pound
+701321,Spaghetti (cost per pound/453.6 grams),Spaghetti,food,pound
+701322,"Spaghetti and macaroni, per lb. (453.6 gm)",Spaghetti and macaroni,food,pound
+702111,"Bread, white, pan, per lb. (453.6 gm)","Bread, white, pan",food,pound
+702112,"Bread, French, per lb. (453.6 gm)","Bread, French",food,pound
+702211,"Bread, rye, pan (cost per pound/453.6 grams)","Bread, rye, pan",food,pound
+702212,"Bread, whole wheat, pan, per lb. (453.6 gm)","Bread, whole wheat, pan",food,pound
+702213,"Bread, wheat blend, pan (cost per pound/453.6 grams)","Bread, wheat blend, pan",food,pound
+702221,"Rolls, hamburger (cost per pound/453.6 grams)","Rolls, hamburger",food,pound
+702411,"Cupcakes, chocolate (cost per pound/453.6 grams)","Cupcakes, chocolate",food,pound
+702421,"Cookies, chocolate chip, per lb. (453.6 gm)","Cookies, chocolate chip",food,pound
+702611,"Crackers, soda, salted, per lb. (453.6 gm)","Crackers, soda, salted",food,pound
+703111,"Ground chuck, 100% beef, per lb. (453.6 gm)","Ground chuck, 100% beef",food,pound
+703112,"Ground beef, 100% beef, per lb. (453.6 gm)","Ground beef, 100% beef",food,pound
+703113,"Ground beef, lean and extra lean, per lb. (453.6 gm)","Ground beef, lean and extra lean",food,pound
+703211,"Chuck roast, USDA Choice, bone-in, per lb. (453.6 gm)","Chuck roast, USDA Choice, bone-in",food,pound
+703212,"Chuck roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm)","Chuck roast, graded and ungraded, excluding USDA Prime and Choice",food,pound
+703213,"Chuck roast, USDA Choice, boneless, per lb. (453.6 gm)","Chuck roast, USDA Choice, boneless",food,pound
+703311,"Round roast, USDA Choice, boneless, per lb. (453.6 gm)","Round roast, USDA Choice, boneless",food,pound
+703312,"Round roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm)","Round roast, graded and ungraded, excluding USDA Prime and Choice",food,pound
+703411,"Rib roast, USDA Choice, bone-in, per lb. (453.6 gm)","Rib roast, USDA Choice, bone-in",food,pound
+703421,"Steak, chuck, U.S. choice, bone-in (cost per pound/453.6 grams)","Steak, chuck, U.S. choice, bone-in",food,pound
+703422,"Steak, T-Bone, USDA Choice, bone-in, per lb. (453.6 gm)","Steak, T-Bone, USDA Choice, bone-in",food,pound
+703423,"Steak, porterhouse, U.S. choice, bone-in (cost per pound/453.6 grams)","Steak, porterhouse, U.S. choice, bone-in",food,pound
+703425,"Steak, rib eye, USDA Choice, boneless, per lb. (453.6 gm)","Steak, rib eye, USDA Choice, boneless",food,pound
+703431,"Short ribs, any primal source, bone-in, per lb. (453.6 gm)","Short ribs, any primal source, bone-in",food,pound
+703432,"Beef for stew, boneless, per lb. (453.6 gm)","Beef for stew, boneless",food,pound
+703511,"Steak, round, USDA Choice, boneless, per lb. (453.6 gm)","Steak, round, USDA Choice, boneless",food,pound
+703512,"Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm)","Steak, round, graded and ungraded, excluding USDA Prime and Choice",food,pound
+703611,"Steak, sirloin, USDA Choice, bone-in, per lb. (453.6 gm)","Steak, sirloin, USDA Choice, bone-in",food,pound
+703612,"Steak, sirloin, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm)","Steak, sirloin, graded and ungraded, excluding USDA Prime and Choice",food,pound
+703613,"Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm)","Steak, sirloin, USDA Choice, boneless",food,pound
+704111,"Bacon, sliced, per lb. (453.6 gm)","Bacon, sliced",food,pound
+704211,"Chops, center cut, bone-in, per lb. (453.6 gm)","Chops, center cut, bone-in",food,pound
+704212,"Chops, boneless, per lb. (453.6 gm)","Chops, boneless",food,pound
+704311,"Ham, rump or shank half, bone-in, smoked,per lb. (453.6 gm)","Ham, rump or shank half, bone-in, smoked",food,pound
+704312,"Ham, boneless, excluding canned, per lb. (453.6 gm)","Ham, boneless, excluding canned",food,pound
+704313,"Ham, rump portion, bone-in, smoked (cost per pound/453.6 grams)","Ham, rump portion, bone-in, smoked",food,pound
+704314,"Ham, shank portion, bone-in, smoked (cost per pound/453.6 grams)","Ham, shank portion, bone-in, smoked",food,pound
+704321,"Ham, canned, 3 or 5 lbs, per lb. (453.6 gm)","Ham, canned, 3 or 5 lbs",food,pound
+704411,"Pork shoulder roast, blade boston, bone-in (cost per pound/453.6 grams)","Pork shoulder roast, blade boston, bone-in",food,pound
+704412,"Pork sirloin roast, bone-in (cost per pound/453.6 grams)","Pork sirloin roast, bone-in",food,pound
+704413,"Shoulder picnic, bone-in, smoked, per lb. (453.6 gm)","Shoulder picnic, bone-in, smoked",food,pound
+704421,"Sausage, fresh, loose, per lb. (453.6 gm)","Sausage, fresh, loose",food,pound
+705111,"Frankfurters, all meat or all beef, per lb. (453.6 gm)","Frankfurters, all meat or all beef",food,pound
+705121,"Bologna, all beef or mixed, per lb. (453.6 gm)","Bologna, all beef or mixed",food,pound
+705141,Beef liver (cost per pound/453.6 grams),Beef liver,food,pound
+705142,"Lamb and mutton, bone-in, per lb. (453.6 gm)","Lamb and mutton, bone-in",food,pound
+706111,"Chicken, fresh, whole, per lb. (453.6 gm)","Chicken, fresh, whole",food,pound
+706211,"Chicken breast, bone-in, per lb. (453.6 gm)","Chicken breast, bone-in",food,pound
+706212,"Chicken legs, bone-in, per lb. (453.6 gm)","Chicken legs, bone-in",food,pound
+706311,"Turkey, frozen, whole, per lb. (453.6 gm)","Turkey, frozen, whole",food,pound
+707111,"Tuna, light, chunk, per lb. (453.6 gm)","Tuna, light, chunk",food,pound
+708111,"Eggs, grade A, large, per doz.","Eggs, grade A, large",food,dozen
+708112,"Eggs, grade AA, large, per doz.","Eggs, grade AA, large",food,dozen
+709111,"Milk, fresh, whole, fortified, per 1/2 gal. (1.9 lit)","Milk, fresh, whole, fortified",food,half_gallon
+709112,"Milk, fresh, whole, fortified, per gal. (3.8 lit)","Milk, fresh, whole, fortified",food,gallon
+709211,"Milk, fresh, skim (cost per one-half gallon/1.9 liters)","Milk, fresh, skim",food,half_gallon
+709212,"Milk, fresh, low fat, per 1/2 gal. (1.9 lit)","Milk, fresh, low fat",food,half_gallon
+709213,"Milk, fresh, low fat, per gal. (3.8 lit)","Milk, fresh, low fat",food,gallon
+710111,"Butter, salted, grade AA, stick, per lb. (453.6 gm)","Butter, salted, grade AA, stick",food,pound
+710122,"Yogurt, natural, fruit flavored, per 8 oz. (226.8 gm)","Yogurt, natural, fruit flavored",food,8_oz
+710211,"American processed cheese, per lb. (453.6 gm)",American processed cheese,food,pound
+710212,"Cheddar cheese, natural, per lb. (453.6 gm)","Cheddar cheese, natural",food,pound
+710411,"Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit)","Ice cream, prepackaged, bulk, regular",food,half_gallon
+711111,"Apples, Red Delicious, per lb. (453.6 gm)","Apples, Red Delicious",food,pound
+711211,"Bananas, per lb. (453.6 gm)",Bananas,food,pound
+711311,"Oranges, Navel, per lb. (453.6 gm)","Oranges, Navel",food,pound
+711312,"Oranges, Valencia, per lb. (453.6 gm)","Oranges, Valencia",food,pound
+711411,"Grapefruit, per lb. (453.6 gm)",Grapefruit,food,pound
+711412,"Lemons, per lb. (453.6 gm)",Lemons,food,pound
+711413,"Pears, Anjou, per lb. (453.6 gm)","Pears, Anjou",food,pound
+711414,"Peaches, per lb. (453.6 gm)",Peaches,food,pound
+711415,"Strawberries, dry pint, per 12 oz. (340.2 gm)","Strawberries, dry pint",food,12_oz
+711416,"Grapes, Emperor or Tokay (cost per pound/453.6 grams)","Grapes, Emperor or Tokay",food,pound
+711417,"Grapes, Thompson Seedless, per lb. (453.6 gm)","Grapes, Thompson Seedless",food,pound
+711418,"Cherries, per lb. (453.6 gm)",Cherries,food,pound
+712111,"Potatoes, white (cost per pound/453.6 grams)","Potatoes, white",food,pound
+712112,"Potatoes, white, per lb. (453.6 gm)","Potatoes, white",food,pound
+712211,"Lettuce, iceberg, per lb. (453.6 gm)","Lettuce, iceberg",food,pound
+712311,"Tomatoes, field grown, per lb. (453.6 gm)","Tomatoes, field grown",food,pound
+712401,"Cabbage, per lb. (453.6 gm)",Cabbage,food,pound
+712402,"Celery, per lb. (453.6 gm)",Celery,food,pound
+712403,"Carrots, short trimmed and topped, per lb. (453.6 gm)","Carrots, short trimmed and topped",food,pound
+712404,"Onions, dry yellow, per lb. (453.6 gm)","Onions, dry yellow",food,pound
+712405,"Onions, green scallions (cost per pound/453.6 grams)","Onions, green scallions",food,pound
+712406,"Peppers, sweet, per lb. (453.6 gm)","Peppers, sweet",food,pound
+712407,"Corn on the cob, per lb. (453.6 gm)",Corn on the cob,food,pound
+712408,Radishes (cost per pound/453.6 grams),Radishes,food,pound
+712409,"Cucumbers, per lb. (453.6 gm)",Cucumbers,food,pound
+712410,"Beans, green, snap (cost per pound/453.6 grams)","Beans, green, snap",food,pound
+712411,Mushrooms (cost per pound/453.6 grams),Mushrooms,food,pound
+712412,"Broccoli, per lb. (453.6 gm)",Broccoli,food,pound
+713111,"Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml)","Orange juice, frozen concentrate, 12 oz. can",food,16_oz
+713311,"Apple Sauce, any variety, all sizes, per lb. (453.6 gm)","Apple Sauce, any variety, all sizes",food,pound
+713312,"Peaches, any variety, all sizes, per lb. (453.6 gm)","Peaches, any variety, all sizes",food,pound
+714111,"Potatoes, frozen, French fried, per lb. (453.6 gm)","Potatoes, frozen, French fried",food,pound
+714221,"Corn, canned, any style, all sizes, per lb. (453.6 gm)","Corn, canned, any style, all sizes",food,pound
+714231,"Tomatoes, canned, whole, per lb. (453.6 gm)","Tomatoes, canned, whole",food,pound
+714232,"Tomatoes, canned, any type, all sizes,  per lb. (453.6 gm)","Tomatoes, canned, any type, all sizes",food,pound
+714233,"Beans, dried, any type, all sizes, per lb. (453.6 gm)","Beans, dried, any type, all sizes",food,pound
+715111,"Hard candy, solid (cost per pound/453.6 grams)","Hard candy, solid",food,pound
+715211,"Sugar, white, all sizes, per lb. (453.6 gm)","Sugar, white, all sizes",food,pound
+715212,"Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm)","Sugar, white, 33-80 oz. pkg",food,pound
+715311,Jelly (cost per pound/453.6 grams),Jelly,food,pound
+716111,"Margarine, vegetable oil blends, stick (cost per pound/453.6 grams)","Margarine, vegetable oil blends, stick",food,pound
+716113,"Margarine, vegetable oil blends, soft, tubs (cost per pound/453.6 grams)","Margarine, vegetable oil blends, soft, tubs",food,pound
+716114,"Margarine, stick, per lb. (453.6 gm)","Margarine, stick",food,pound
+716116,"Margarine, soft, tubs, per lb. (453.6 gm)","Margarine, soft, tubs",food,pound
+716121,"Shortening, vegetable oil blends, per lb. (453.6 gm)","Shortening, vegetable oil blends",food,pound
+716141,"Peanut butter, creamy, all sizes, per lb. (453.6 gm)","Peanut butter, creamy, all sizes",food,pound
+717111,"Cola, non-diet, return bottles, 6 or 8 pack (cost per 16 ounces/473.2 ml)","Cola, non-diet, return bottles, 6 or 8 pack",food,16_oz
+717112,"Cola, non diet, return bottles, 24-40 ounce (cost per 16 ounces/473.2 ml)","Cola, non diet, return bottles, 24-40 ounce",food,16_oz
+717113,"Cola, nondiet, cans, 72 oz. 6 pk., per 16 oz. (473.2 ml)","Cola, nondiet, cans, 72 oz. 6 pk.",food,16_oz
+717114,"Cola, nondiet, per 2 liters (67.6 oz)","Cola, nondiet",food,2_liters
+717311,"Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm)","Coffee, 100%, ground roast, all sizes",food,pound
+717312,"Coffee, 100%, ground roast, 13.1-20 oz. can, per lb. (453.6 gm)","Coffee, 100%, ground roast, 13.1-20 oz. can",food,pound
+717324,"Coffee, instant, plain, regular, 6.1-14 ounce (cost per 16 ounces/453.6 grams)","Coffee, instant, plain, regular, 6.1-14 ounce",food,16_oz
+717325,"Coffee, freeze dried, regular, all sizes (cost per 16 ounces/453.6 grams)","Coffee, freeze dried, regular, all sizes",food,16_oz
+717326,"Coffee, freeze dried, decaf., all sizes (cost per 16 ounces/453.6 grams)","Coffee, freeze dried, decaf., all sizes",food,16_oz
+717327,"Coffee, instant, plain, regular, all sizes, per lb. (453.6 gm)","Coffee, instant, plain, regular, all sizes",food,pound
+717411,"Coffee, instant, plain, 9.1-14 ounce (cost per 16 ounces/453.6 grams)","Coffee, instant, plain, 9.1-14 ounce",food,16_oz
+717412,"Coffee, instant, plain, 3.1-6 ounce (cost per 16 ounces/453.6 grams)","Coffee, instant, plain, 3.1-6 ounce",food,16_oz
+717413,"Coffee, freeze dried, plain, 3.1-9 ounce (cost per 16 ounces/453.6 grams)","Coffee, freeze dried, plain, 3.1-9 ounce",food,16_oz
+718311,"Potato chips, per 16 oz.",Potato chips,food,16_oz
+718631,"Pork and beans, canned (cost per 16 ounces/453.6 grams)","Pork and beans, canned",food,16_oz
+720111,"Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml)","Malt beverages, all types, all sizes, any origin",alcohol,16_oz
+720211,"Bourbon whiskey, 375 ml-1.75 liter (cost per 25.4 ounces/750 ml)","Bourbon whiskey, 375 ml-1.75 liter",alcohol,750_ml
+720221,"Vodka, domestic, 375 ml-1.75 liter (cost per 25.4 ounces/750 ml)","Vodka, domestic, 375 ml-1.75 liter",alcohol,750_ml
+720222,"Vodka, all types, all sizes, any origin, per 1 liter (33.8 oz)","Vodka, all types, all sizes, any origin",alcohol,1_liter
+720311,"Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz)","Wine, red and white table, all sizes, any origin",alcohol,1_liter
+72511,Fuel oil #2 per gallon (3.785 liters),Fuel oil #2,household_energy,gallon
+72601,Utility (piped) gas - 40 therms,Utility (piped) gas - 40 therms,household_energy,40_therms
+72610,Electricity per KWH,Electricity,household_energy,kwh
+72611,Utility (piped) gas - 100 therms,Utility (piped) gas - 100 therms,household_energy,100_therms
+72620,Utility (piped) gas per therm,Utility (piped) gas,household_energy,therm
+72621,Electricity per 500 KWH,Electricity,household_energy,500_kwh
+74712,"Gasoline, leaded regular (cost per gallon/3.8 liters)","Gasoline, leaded regular",motor_fuel,gallon
+74713,"Gasoline, leaded premium (cost per gallon/3.8 liters)","Gasoline, leaded premium",motor_fuel,gallon
+74714,"Gasoline, unleaded regular, per gallon/3.785 liters","Gasoline, unleaded regular",motor_fuel,gallon
+74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters","Gasoline, unleaded midgrade",motor_fuel,gallon
+74716,"Gasoline, unleaded premium, per gallon/3.785 liters","Gasoline, unleaded premium",motor_fuel,gallon
+74717,"Automotive diesel fuel, per gallon/3.785 liters",Automotive diesel fuel,motor_fuel,gallon
+7471A,"Gasoline, all types, per gallon/3.785 liters","Gasoline, all types",motor_fuel,gallon
+FC1101,"All uncooked ground beef, per lb. (453.6 gm)",All uncooked ground beef,food,pound
+FC2101,"All Uncooked Beef Roasts, per lb. (453.6 gm)",All Uncooked Beef Roasts,food,pound
+FC3101,"All Uncooked Beef Steaks, per lb. (453.6 gm)",All Uncooked Beef Steaks,food,pound
+FC4101,"All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm)",All Uncooked Other Beef (Excluding Veal),food,pound
+FD2101,"All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm)",All Ham (Excluding Canned Ham and Luncheon Slices),food,pound
+FD3101,"All Pork Chops, per lb. (453.6 gm)",All Pork Chops,food,pound
+FD4101,"All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm)",All Other Pork (Excluding Canned Ham and Luncheon Slices),food,pound
+FF1101,"Chicken breast, boneless, per lb. (453.6 gm)","Chicken breast, boneless",food,pound
+FJ1101,"Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit)","Milk, fresh, low-fat, reduced fat, skim",food,gallon
+FJ4101,"Yogurt, per 8 oz. (226.8 gm)",Yogurt,food,8_oz
+FL2101,"Lettuce, romaine, per lb. (453.6 gm)","Lettuce, romaine",food,pound
+FN1101,"All soft drinks, per 2 liters (67.6 oz)",All soft drinks,food,2_liters
+FN1102,"All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml)","All soft drinks, 12 pk, 12 oz., cans",food,12_oz
+FS1101,"Butter, stick, per lb. (453.6 gm)","Butter, stick",food,pound

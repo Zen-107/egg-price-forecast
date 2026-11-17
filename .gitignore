@@ -1,0 +1,15 @@
+# archives
+*.zip
+*.7z
+*.rar
+# PDFs (requirements / scratch)
+*.pdf
+# large raw CSV (parquet version is included)
+data/average_prices.csv
+# old notebook versions
+DS_Capstone.ipynb
+DS_Capstone_v2.ipynb
+DS_Capstone_v2_layers.ipynb
+# editor
+.vscode/
+.ipynb_checkpoints/
