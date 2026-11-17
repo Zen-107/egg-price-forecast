@@ -67,7 +67,8 @@ egg-price-forecast/
 │   ├── output/              # ตารางผลลัพธ์ (.csv) และ summary.txt
 │   └── poster_egg_price.html
 ├── notebooks/
-│   ├── DS_Capstone_v2_extra.ipynb   # notebook ฉบับเต็มพร้อมคำอธิบายทุกขั้น
+│   ├── DS_Capstone_v2.ipynb         # การทดลอง A: ราคาอย่างเดียว (ตัวเลข R1–R6 หลักบนโปสเตอร์)
+│   ├── DS_Capstone_v2_extra.ipynb   # การทดลอง A + B: เพิ่มแม่ไก่ไข่และไข้หวัดนก
 │   └── DS_Capstone_v2_extra.html
 ├── requirements.txt
 └── .gitignore
@@ -86,4 +87,4 @@ python src/main.py
 - `results/figures/*.png`: กราฟ EDA และผลโมเดล 12 รูป
 - `results/output/*.csv`, `summary.txt`: ตารางเปรียบเทียบโมเดลและตัวเลขสรุป
 
-หรือเปิด `notebooks/DS_Capstone_v2_extra.ipynb` เพื่อดูการวิเคราะห์ทีละขั้นพร้อมคำอธิบาย
+หรือเปิด notebook ใน `notebooks/` เพื่อดูการวิเคราะห์ทีละขั้นพร้อมคำอธิบาย: `DS_Capstone_v2.ipynb` (ราคาอย่างเดียว) และ `DS_Capstone_v2_extra.ipynb` (เพิ่มข้อมูลประกอบ)

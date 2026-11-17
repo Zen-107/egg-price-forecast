@@ -8,7 +8,6 @@
 data/raw/average_prices.csv
 # old notebook versions
 DS_Capstone.ipynb
-DS_Capstone_v2.ipynb
 DS_Capstone_v2_layers.ipynb
 # Python / editor
 .venv/
